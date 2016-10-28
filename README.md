@@ -3,7 +3,7 @@ Sigmabit integration/staging tree
 
 http://www.sigmabit.org
 
-Copyright (c) 2009-2013 Sigmabit Developers
+Copyright (c) 2009-2016 Sigmabit Developers
 
 What is Sigmabit?
 ----------------
@@ -52,6 +52,14 @@ Testing and code review is the bottleneck for development; we get more pull
 requests than we can review and test. Please be patient and help out, and
 remember this is a security-critical project where any mistake might cost people
 lots of money.
+
+Node & RPC & P2P Port:
+----------------------
+addnode=149.56.134.171
+addnode=192.99.55.242
+addnode=167.114.103.43
+RPC Port: 8906
+P2P Port: 8905
 
 ### Automated Testing
 
